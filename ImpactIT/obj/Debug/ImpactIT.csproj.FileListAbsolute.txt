@@ -1,0 +1,6 @@
+D:\Projekty_VS\ImpactIT\ImpactIT\bin\Debug\ImpactIT.exe.config
+D:\Projekty_VS\ImpactIT\ImpactIT\bin\Debug\ImpactIT.exe
+D:\Projekty_VS\ImpactIT\ImpactIT\bin\Debug\ImpactIT.pdb
+D:\Projekty_VS\ImpactIT\ImpactIT\obj\Debug\ImpactIT.csprojAssemblyReference.cache
+D:\Projekty_VS\ImpactIT\ImpactIT\obj\Debug\ImpactIT.exe
+D:\Projekty_VS\ImpactIT\ImpactIT\obj\Debug\ImpactIT.pdb
